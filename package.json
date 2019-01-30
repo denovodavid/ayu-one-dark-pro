@@ -1,0 +1,31 @@
+{
+    "name": "ayu-one-dark-pro",
+    "displayName": "Ayu One Dark Pro",
+    "description": "Ayu Mirage with One Dark Pro",
+    "version": "1.0.0",
+    "publisher": "smeagolem",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ayu One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ayu-one-dark-pro-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "build": "node ./build.js",
+        "package": "vsce package"
+    },
+    "devDependencies": {
+        "Material-theme": "Binaryify/OneDark-Pro",
+        "ayu": "ayu-theme/vscode-ayu",
+        "vsce": "^1.55.0"
+    }
+}
