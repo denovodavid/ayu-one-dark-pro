@@ -4,6 +4,7 @@
     "description": "Ayu Mirage with One Dark Pro",
     "version": "1.0.0",
     "publisher": "smeagolem",
+    "repository": "https://github.com/smeagolem/ayu-one-dark-pro",
     "engines": {
         "vscode": "^1.30.0"
     },
