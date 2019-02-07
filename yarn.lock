@@ -3,13 +3,13 @@
 
 
 "@types/node@*":
-  version "10.12.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.19.tgz#ca1018c26be01f07e66ac7fefbeb6407e4490c61"
-  integrity sha512-2NVovndCjJQj6fUUn9jCgpP4WSqr+u1SoUZMZyJkhGeBFsm6dE46l31S7lPUYt9uQ28XI+ibrJA1f5XyH5HNtA==
+  version "10.12.21"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.21.tgz#7e8a0c34cf29f4e17a36e9bd0ea72d45ba03908e"
+  integrity sha512-CBgLNk4o3XMnqMc0rhb6lc77IwShMEglz05deDcn2lQxyXEZivfwgYJu7SMha9V5XcrP6qZuevTHV/QrN2vjKQ==
 
 Material-theme@Binaryify/OneDark-Pro:
   version "2.18.1"
-  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/3b17f99927718ed6427b1701f0c08f41a8a317b3"
+  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/7347424c0c079b8b7e480bddcb101e20fe97dd34"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -26,8 +26,8 @@ argparse@^1.0.7:
     sprintf-js "~1.0.2"
 
 ayu@ayu-theme/vscode-ayu:
-  version "0.17.0"
-  resolved "https://codeload.github.com/ayu-theme/vscode-ayu/tar.gz/814597c7875bf39a32725662ab072747016337e8"
+  version "0.18.0"
+  resolved "https://codeload.github.com/ayu-theme/vscode-ayu/tar.gz/48d892a61a19c071c706897c3ec1a8bb87c2308c"
 
 balanced-match@^1.0.0:
   version "1.0.0"
@@ -392,9 +392,9 @@ typed-rest-client@^0.9.0:
     underscore "1.8.3"
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/uc.micro/-/uc.micro-1.0.5.tgz#0c65f15f815aa08b560a61ce8b4db7ffc3f45376"
-  integrity sha512-JoLI4g5zv5qNyT09f4YAvEZIIV1oOjqnewYg5D38dkQljIzpPT296dbIGvKro3digYI1bkb7W6EP1y4uDlmzLg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/uc.micro/-/uc.micro-1.0.6.tgz#9c411a802a409a91fc6cf74081baba34b24499ac"
+  integrity sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA==
 
 underscore@1.8.3:
   version "1.8.3"
