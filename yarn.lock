@@ -3,13 +3,13 @@
 
 
 "@types/node@*":
-  version "10.12.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.21.tgz#7e8a0c34cf29f4e17a36e9bd0ea72d45ba03908e"
-  integrity sha512-CBgLNk4o3XMnqMc0rhb6lc77IwShMEglz05deDcn2lQxyXEZivfwgYJu7SMha9V5XcrP6qZuevTHV/QrN2vjKQ==
+  version "10.12.24"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.24.tgz#b13564af612a22a20b5d95ca40f1bffb3af315cf"
+  integrity sha512-GWWbvt+z9G5otRBW8rssOFgRY87J9N/qbhqfjMZ+gUuL6zoL+Hm6gP/8qQBG4jjimqdaNLCehcVapZ/Fs2WjCQ==
 
 Material-theme@Binaryify/OneDark-Pro:
-  version "2.18.1"
-  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/7347424c0c079b8b7e480bddcb101e20fe97dd34"
+  version "2.18.2"
+  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/77e366fb594f3d55aacbac3f5b10694bb0f08b4e"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -417,9 +417,9 @@ util-deprecate@^1.0.1:
   integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
 
 vsce@^1.55.0:
-  version "1.55.0"
-  resolved "https://registry.yarnpkg.com/vsce/-/vsce-1.55.0.tgz#20bfa8069838040e72b04d0863be29d5b29c6ff2"
-  integrity sha512-BRosoJpoHjFktJr7B4Zm8pxWHuZlCC1ysxgUZuXtgRXxReqzDHX3EHr68c/fIxc62TTbquk1t6oVK5P7YOE6hg==
+  version "1.57.0"
+  resolved "https://registry.yarnpkg.com/vsce/-/vsce-1.57.0.tgz#6a80e478a3df99e9ec74b9440e2b38cc265f0881"
+  integrity sha512-ULiWDQBt0XZAA5PI7XL0TxeKZ6cXk3e3ZH/lL9xk93WeckqWzR79D3xNsf0GRacOGYU+UmbhXWRtP8C6wnDNmg==
   dependencies:
     chalk "^2.4.2"
     cheerio "^1.0.0-rc.1"
