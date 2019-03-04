@@ -3,7 +3,7 @@
     "displayName": "Ayu One Dark Pro",
     "description": "Ayu Mirage with One Dark Pro",
     "version": "1.0.1",
-    "icon": "./images/icon.png",
+    "icon": "images/icon.png",
     "publisher": "smeagolem",
     "repository": "https://github.com/smeagolem/ayu-one-dark-pro",
     "engines": {
