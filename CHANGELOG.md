@@ -3,18 +3,26 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.1.1] - 2019-03-07
+### Changed
+- Upgrade One Dark Pro.
+
 ## [1.1.0] - 2019-03-06
 ### Added
-- Dark and Bordered variants
+- Dark and Bordered variants.
 
 ## [1.0.1] - 2019-03-04
 ### Added
-- Icon
-- Screenshot
+- Icon.
+- Screenshot.
 
 ### Changed
-- Merge [highlighted language variables (this, super...)](https://github.com/Binaryify/OneDark-Pro/pull/287)
+- Merge [highlighted language variables (this, super...)](https://github.com/Binaryify/OneDark-Pro/pull/287).
 
-## [1.0.0] - 2019-01-30
+## 1.0.0 - 2019-01-30
 ### Added
-- Initial release
+- Initial release.
+
+[1.1.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.1.0...1.1.1
+[1.1.0]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.0.1...1.1.0
+[1.0.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.0.0...1.0.1
