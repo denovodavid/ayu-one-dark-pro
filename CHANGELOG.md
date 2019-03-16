@@ -3,6 +3,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.2] - 2019-03-17
+### Added
+- Release checklist
+
+### Fixed
+- Changelog link
+
 ## [1.2.1] - 2019-03-17
 ### Changed
 - Upgrade to [One Dark Pro 2.20.5](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2205--20190315)
@@ -31,6 +38,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Initial release.
 
+[1.2.2]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.2.1...1.2.2
 [1.2.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.1.1...1.2.0
 [1.1.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.1.0...1.1.1
