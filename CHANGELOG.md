@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [1.2.1] - 2019-03-17
+### Changed
+- Upgrade to [One Dark Pro 2.20.5](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2205--20190315)
+
 ## [1.2.0] - 2019-03-14
 ### Changed
 - Upgrade to [One Dark Pro 2.20.3](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2203--20190313)
