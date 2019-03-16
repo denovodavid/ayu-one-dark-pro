@@ -21,3 +21,15 @@ So, **methods()** are bold, and I've change javascript object keys to be aqua in
 There was way too much red.
 
 Bye.
+
+Release checklist because I forget things:
+
+- Upgrade dependencies
+- Bump version
+- Update changelog details
+- Update changelog links
+- Test package
+- Tag
+- Push
+- Release
+- Publish
