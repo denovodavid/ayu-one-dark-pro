@@ -5,7 +5,10 @@
     "version": "1.4.0",
     "icon": "images/icon.png",
     "publisher": "smeagolem",
-    "repository": "https://github.com/smeagolem/ayu-one-dark-pro",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smeagolem/ayu-one-dark-pro"
+    },
     "engines": {
         "vscode": "^1.30.0"
     },
