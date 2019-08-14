@@ -430,7 +430,10 @@
     },
     {
       "name": "java type",
-      "scope": "storage.type.annotation.java",
+      "scope": [
+        "storage.type.annotation.java",
+        "storage.type.object.array.java"
+      ],
       "settings": {
         "foreground": "#E5C07B"
       }
@@ -444,7 +447,7 @@
     },
     {
       "name": "java modifier.import",
-      "scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,storage.type.generic.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,meta.method.body.java",
+      "scope": "punctuation.section.block.begin.java,punctuation.section.block.end.java,punctuation.definition.method-parameters.begin.java,punctuation.definition.method-parameters.end.java,meta.method.identifier.java,punctuation.section.method.begin.java,punctuation.section.method.end.java,punctuation.terminator.java,punctuation.section.class.begin.java,punctuation.section.class.end.java,punctuation.section.inner-class.begin.java,punctuation.section.inner-class.end.java,meta.method-call.java,punctuation.section.class.begin.bracket.curly.java,punctuation.section.class.end.bracket.curly.java,punctuation.section.method.begin.bracket.curly.java,punctuation.section.method.end.bracket.curly.java,punctuation.separator.period.java,punctuation.bracket.angle.java,punctuation.definition.annotation.java,meta.method.body.java",
       "settings": {
         "foreground": "#abb2bf"
       }
@@ -458,9 +461,16 @@
     },
     {
       "name": "java modifier.import",
-      "scope": "storage.modifier.import.java,storage.type.java",
+      "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
       "settings": {
         "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "java instanceof",
+      "scope": "keyword.operator.instanceof.java",
+      "settings": {
+        "foreground": "#c678dd"
       }
     },
     {
@@ -472,7 +482,7 @@
     },
     {
       "name": "operator logical",
-      "scope": "keyword.operator.logical.js",
+      "scope": "keyword.operator.logical",
       "settings": {
         "foreground": "#56b6c2"
       }
@@ -581,7 +591,8 @@
         "keyword.operator.expression.instanceof",
         "keyword.operator.new",
         "keyword.operator.ternary",
-        "keyword.operator.optional"
+        "keyword.operator.optional",
+        "keyword.operator.expression.keyof"
       ],
       "settings": {
         "foreground": "#c678dd"
@@ -724,7 +735,7 @@
       "name": "python placeholder reset to normal string",
       "scope": "constant.character.format.placeholder.other.python",
       "settings": {
-        "foreground": "#98c379"
+        "foreground": "#d19a66"
       }
     },
     {
@@ -928,10 +939,17 @@
       }
     },
     {
-      "name": "Strings, Inherited Class",
-      "scope": "string, entity.other.inherited-class",
+      "name": "Strings",
+      "scope": "string",
       "settings": {
         "foreground": "#98c379"
+      }
+    },
+    {
+      "name": "Inherited Class",
+      "scope": "entity.other.inherited-class",
+      "settings": {
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -1846,6 +1864,145 @@
       "settings": {
         "foreground": "#E5C07B"
       }
+    },
+    {
+      "name": "heading 1, keyword",
+      "settings": {
+        "foreground": "#E5C07B"
+      },
+      "scope": [
+        "entity.name.function.xi"
+      ]
+    },
+    {
+      "name": "heading 2, callable",
+      "settings": {
+        "foreground": "#56b6c2"
+      },
+      "scope": [
+        "entity.name.class.xi"
+      ]
+    },
+    {
+      "name": "heading 3, property",
+      "settings": {
+        "foreground": "#e06c75"
+      },
+      "scope": [
+        "constant.character.character-class.regexp.xi"
+      ]
+    },
+    {
+      "name": "heading 4, type, class, interface",
+      "settings": {
+        "foreground": "#c678dd"
+      },
+      "scope": [
+        "constant.regexp.xi"
+      ]
+    },
+    {
+      "name": "heading 5, enums, preprocessor, constant, decorator",
+      "settings": {
+        "foreground": "#56b6c2"
+      },
+      "scope": [
+        "keyword.control.xi"
+      ]
+    },
+    {
+      "name": "heading 6, number",
+      "settings": {
+        "foreground": "#abb2bf"
+      },
+      "scope": [
+        "invalid.xi"
+      ]
+    },
+    {
+      "name": "string",
+      "settings": {
+        "foreground": "#98c379"
+      },
+      "scope": [
+        "beginning.punctuation.definition.quote.markdown.xi"
+      ]
+    },
+    {
+      "name": "comments",
+      "settings": {
+        "foreground": "#7F848E"
+      },
+      "scope": [
+        "beginning.punctuation.definition.list.markdown.xi"
+      ]
+    },
+    {
+      "name": "link",
+      "settings": {
+        "foreground": "#61AFEF"
+      },
+      "scope": [
+        "constant.character.xi"
+      ]
+    },
+    {
+      "name": "accent",
+      "settings": {
+        "foreground": "#61AFEF"
+      },
+      "scope": [
+        "accent.xi"
+      ]
+    },
+    {
+      "name": "wikiword",
+      "settings": {
+        "foreground": "#d19a66"
+      },
+      "scope": [
+        "wikiword.xi"
+      ]
+    },
+    {
+      "name": "language operators like '+', '-' etc",
+      "settings": {
+        "foreground": "#FFFFFF"
+      },
+      "scope": [
+        "constant.other.color.rgb-value.xi"
+      ]
+    },
+    {
+      "name": "elements to dim",
+      "settings": {
+        "foreground": "#5C6370"
+      },
+      "scope": [
+        "punctuation.definition.tag.xi"
+      ]
+    },
+    {
+      "name": "C++/C#",
+      "settings": {
+        "foreground": "#E5C07B"
+      },
+      "scope": [
+        "entity.name.label.cs",
+        "entity.name.scope-resolution.function.call",
+        "entity.name.scope-resolution.function.definition"
+      ]
+    },
+    {
+      "name": "Markdown underscore-style headers",
+      "settings": {
+        "foreground": "#e06c75"
+      },
+      "scope": [
+        "entity.name.label.cs",
+        "markup.heading.setext.1.markdown",
+        "markup.heading.setext.2.markdown"
+      ]
     },
     {
       "name": "js object key",
