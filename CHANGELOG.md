@@ -4,18 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
+### Fixed
+- Change Log formatting.
 
 ## [1.6.0] - 2019-08-23
-###
-- Upgrade to [One Dark Pro 2.27.0](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2263--20190808)
+### Changed
+- Upgrade to [One Dark Pro `2.27.0`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2263--20190808).
 
 ## [1.5.0] - 2019-08-14
 ### Changed
-- Upgrade to [One Dark Pro 2.26.3](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2263--20190808)
+- Upgrade to [One Dark Pro `2.26.3`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2263--20190808).
 
 ## [1.4.1] - 2019-05-25
 ### Changed
-- Upgrade to [One Dark Pro 2.23.1](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2231--20190524)
+- Upgrade to [One Dark Pro `2.23.1`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2231--20190524).
 
 ### Fixed
 - Repository field in `package.json`.
@@ -25,27 +27,27 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Unreleased link to changelog.
 
 ### Changed
-- Upgrade to [One Dark Pro 2.23.0](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2230--20190510)
+- Upgrade to [One Dark Pro `2.23.0`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2230--20190510).
 - Optimised icon and screenshot.
 
 ## [1.3.0] - 2019-05-05
 ### Changed
-- Upgrade to [One Dark Pro 2.22.0](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2220--20190503)
+- Upgrade to [One Dark Pro `2.22.0`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2220--20190503).
 
 ## [1.2.2] - 2019-03-17
 ### Added
-- Release checklist
+- Release checklist.
 
 ### Fixed
-- Changelog link
+- Changelog link.
 
 ## [1.2.1] - 2019-03-17
 ### Changed
-- Upgrade to [One Dark Pro 2.20.5](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2205--20190315)
+- Upgrade to [One Dark Pro `2.20.5`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2205--20190315).
 
 ## [1.2.0] - 2019-03-14
 ### Changed
-- Upgrade to [One Dark Pro 2.20.3](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2203--20190313)
+- Upgrade to [One Dark Pro `2.20.3`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2203--20190313).
 
 ## [1.1.1] - 2019-03-07
 ### Changed
