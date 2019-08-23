@@ -3,13 +3,13 @@
 
 
 "@types/node@*":
-  version "12.7.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.1.tgz#3b5c3a26393c19b400844ac422bd0f631a94d69d"
-  integrity sha512-aK9jxMypeSrhiYofWWBf/T7O+KwaiAHzM4sveCdWPn71lzUSMimRnKzhXDKfKwV1kWoBo2P1aGgaIYGLf9/ljw==
+  version "12.7.2"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.2.tgz#c4e63af5e8823ce9cc3f0b34f7b998c2171f0c44"
+  integrity sha512-dyYO+f6ihZEtNPDcWNR1fkoTDf3zAK3lAABDze3mz6POyIercH0lEUawUFXlG8xaQZmm1yEBON/4TsYv/laDYg==
 
 Material-theme@Binaryify/OneDark-Pro:
-  version "2.26.3"
-  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/53a93dc8f8aeba6b6b5ce46ac12d02f7d65fe720"
+  version "2.27.0"
+  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/dec6aa6ad2addb937e478a36963f73716d831018"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
