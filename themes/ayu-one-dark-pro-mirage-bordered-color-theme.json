@@ -2012,6 +2012,15 @@
       ]
     },
     {
+      "name": "meta.brace.square",
+      "settings": {
+        "foreground": "#abb2bf"
+      },
+      "scope": [
+        " meta.brace.square"
+      ]
+    },
+    {
       "name": "js object key",
       "scope": "meta.object-literal.key",
       "settings": {

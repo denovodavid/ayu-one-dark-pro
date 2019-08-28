@@ -8,8 +8,8 @@
   integrity sha512-dyYO+f6ihZEtNPDcWNR1fkoTDf3zAK3lAABDze3mz6POyIercH0lEUawUFXlG8xaQZmm1yEBON/4TsYv/laDYg==
 
 Material-theme@Binaryify/OneDark-Pro:
-  version "2.27.0"
-  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/dec6aa6ad2addb937e478a36963f73716d831018"
+  version "2.27.1"
+  resolved "https://codeload.github.com/Binaryify/OneDark-Pro/tar.gz/d2260c74dab49b7fd7aeeb1b1569023d53b7f61d"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
