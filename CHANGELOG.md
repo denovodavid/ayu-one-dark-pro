@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
+
+## [1.6.1]
+### Changed
+- Upgrade to [One Dark Pro `2.27.1`](https://github.com/Binaryify/OneDark-Pro/blob/master/CHANGELOG.md#2271--20190826).
+
 ### Fixed
 - Change Log formatting.
 
@@ -69,7 +74,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Added
 - Initial release.
 
-[Unreleased]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.6.0...HEAD
+[Unreleased]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.6.1...HEAD
+[1.6.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.6.0...1.6.1
 [1.6.0]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.4.1...1.5.0
 [1.4.1]: https://github.com/smeagolem/ayu-one-dark-pro/compare/1.4.0...1.4.1
