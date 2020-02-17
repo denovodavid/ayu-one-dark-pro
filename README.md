@@ -1,4 +1,37 @@
-# Ayu One Dark Pro
+# Ayu One Dark Pro (deprecated)
+
+**Note:** This extension has been **deprecated** in favour of [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) `3.0.0` as it now includes dynamic theming with **ayu** as an option.
+
+How to get the same appearance (Mirage Bordered):
+- Install [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme).
+- Edit your `settings.json` so it matches the following:
+
+```json
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "oneDarkPro.editorTheme": "ayu",
+    "oneDarkPro.bold": true,
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro]": {
+            "textMateRules": [
+                {
+                    "name": "js object key",
+                    "scope": "meta.object-literal.key",
+                    "settings": {
+                        "foreground": "#56b6c2"
+                    }
+                }
+            ]
+        }
+    }
+}
+```
+
+Thanks to those who used this extension. 🙏  
+_Bye bye_ now! 👋
+
+---
+---
 
 > Color Theme for [Visual Studio Code](https://code.visualstudio.com/)
 
