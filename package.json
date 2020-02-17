@@ -1,8 +1,8 @@
 {
     "name": "ayu-one-dark-pro",
-    "displayName": "Ayu One Dark Pro",
+    "displayName": "Ayu One Dark Pro (deprecated)",
     "description": "Ayu Dark/Mirage with One Dark Pro",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "icon": "images/icon.png",
     "publisher": "smeagolem",
     "repository": {
